@@ -191,7 +191,7 @@ fun HomeBodyEmptyListPreview() {
     InventoryTheme {
         HomeBody(listOf(), onItemClick = {})
     }
-}   
+}
 
 @Preview(showBackground = true)
 @Composable
